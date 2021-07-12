@@ -1,2 +1,3 @@
 # my-repository
-https://ildarbattalov.github.io/my-repository/CV
+https://ildarbattalov.github.io/my-repository/cv
+
